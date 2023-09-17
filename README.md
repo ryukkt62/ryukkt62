@@ -4,15 +4,9 @@
 ###
 
 # 🛠Skill
-* Python
-* Pandas
-* Numpy
-* Scikit-learn
-* Tensorflow
-* PostgreSQL
-* GitHub
-* Jira
-* Confluence   
+* Python * Pandas * Numpy
+* Scikit-learn * Tensorflow * PostgreSQL
+* GitHub * Jira * Confluence   
 # :school:Education
 ### 2019.09-2022.02 성균관대학교   
 * 스마트팩토리융합학과
