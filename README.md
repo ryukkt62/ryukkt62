@@ -1,7 +1,6 @@
 ### Hi there 👋
-# ![image](https://github.com/ryukkt62/ryukkt62/assets/56188992/8cc383fa-f3da-49e6-944b-078968f84c6b)
-Work Experience
-### 해줌
+# Work Experience
+### ![image](https://github.com/ryukkt62/ryukkt62/assets/56188992/d74142e0-39db-405c-93e2-092c5302b5d9) 해줌
 
 # 🛠Skill
 * Python
