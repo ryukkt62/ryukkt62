@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 🧑‍💻Work Experience
 ### 해줌
-* 2021.09 ~ present
+> 2021.09 ~ present
 ###
 
 # 🛠Skill
