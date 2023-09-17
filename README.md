@@ -1,8 +1,12 @@
 ### Hi there 👋
-# 🧑‍💻Work Experience
-### 해줌
+# 🧑‍💻Work Experience   
+
+# 해줌
 > 2021.09 ~ present
-###
+* ### 오차 계산 및 분석
+* ### 알고리즘 고도화
+* ### 환경구축
+* ### 프로젝트
 
 # 🛠Skill
 * **Python**  **Pandas**  **Numpy**
