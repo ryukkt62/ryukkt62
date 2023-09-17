@@ -1,5 +1,6 @@
 ### Hi there 👋
-# Work Experience
+# ![image](https://github.com/ryukkt62/ryukkt62/assets/56188992/8cc383fa-f3da-49e6-944b-078968f84c6b)
+Work Experience
 ### 해줌
 
 # 🛠Skill
