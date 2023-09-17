@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name's Kyutae Kim, I'm currently working as a Junior Data Scientist
 # 🧑‍💻Work Experience   
 
 # 해줌
