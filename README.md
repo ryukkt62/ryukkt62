@@ -7,8 +7,7 @@
 * PostgreSQL
 * GitHub
 * Jira
-* Confluence
-* 
+* Confluence   
 # :school:Education
 2013.03-2019.06 충남대학교 선박해양공학과   
 2019.09-2022.02 성균관대학교 스마트팩토리융합학과
