@@ -4,8 +4,7 @@
 ###
 
 # 🛠Skill
-* <span style="background-color:#E6E6FA"> Python </span>
-* Python  Pandas  Numpy
+* **Python**  **Pandas**  **Numpy**
 * Scikit-learn  Tensorflow  PostgreSQL
 * GitHub  Jira  Confluence   
 # :school:Education
